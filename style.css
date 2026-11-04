@@ -1,0 +1,38 @@
+
+*{
+        font-family: Arial, sans-serif;
+}
+
+h1{
+    color: #02193e;
+    font-size: 30px;
+}
+#overall{
+    margin:0 10px 100px 10px;
+    padding: 20px; 
+}
+
+#box{ 
+    display: block;
+    width: 300px;
+    background: #f4fedd;
+    padding: 20px;
+    border: 1px solid #6c6c6c;
+}
+li{
+    color: rgb(25, 26, 32);
+    font-size: 18px;
+    display: list-item;
+}
+.description{
+    color: gray;
+    font-size: 16px;
+    line-height: 1.5;  
+    font-style: italic;
+ }
+
+h2{
+    color: #1e293a;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+}
